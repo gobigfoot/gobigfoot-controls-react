@@ -1,0 +1,14 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "gobigfoot-controls-react-client-side-solution",
+    "id": "93f6cece-559e-4f7d-b1d6-c037d73ea90e",
+    "version": "1.0.0.0",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "includeClientSideAssets": true
+  },
+  "paths": {
+    "zippedPackage": "solution/gobigfoot-controls-react.sppkg"
+  }
+}

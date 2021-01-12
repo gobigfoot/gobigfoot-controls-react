@@ -1,0 +1,30 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx/client-side-web-part-manifest.schema.json",
+  "id": "f7b958ed-62fe-414b-9c11-c619e981228e",
+  "alias": "ControlsTestWebPart",
+  "componentType": "WebPart",
+  "version": "*",
+  "manifestVersion": 2,
+  "requiresCustomScript": false,
+  "supportedHosts": [
+    "SharePointWebPart"
+  ],
+  "preconfiguredEntries": [
+    {
+      "groupId": "f7b958ed-62fe-414b-9c11-c619e981228e",
+      "group": {
+        "default": "Under Development"
+      },
+      "title": {
+        "default": "ControlsTest"
+      },
+      "description": {
+        "default": "ControlsTest description"
+      },
+      "officeFabricIconFontName": "Share",
+      "properties": {
+        "description": "ControlsTest"
+      }
+    }
+  ]
+}
